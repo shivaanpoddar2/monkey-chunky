@@ -32,7 +32,7 @@ export default class App extends React.Component {
           }}
         />
         <Text>
-          My name is Shivaan
+          My name is hthvy5t4rgd5yt4
         </Text>
 
         <Image
